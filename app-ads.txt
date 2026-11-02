@@ -1,1 +1,5 @@
+# DigiDexPlus authorized ad sellers (the copy AdMob reads is at https://neliousness.github.io/app-ads.txt)
+# AdMob account used from version 1.2.0
+google.com, pub-8384949057978598, DIRECT, f08c47fec0942fa0
+# AdMob account used by version 1.1.0 and earlier
 google.com, pub-4085621708201635, DIRECT, f08c47fec0942fa0
