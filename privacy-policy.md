@@ -47,7 +47,7 @@ The app uses Google Analytics for Firebase and Firebase Crashlytics, both provid
 - **Approximate location**, derived from your IP address (country or region, not your precise location).
 - **Crash logs and diagnostics:** when the app crashes, a report with the error, the state of the app and your device model and Android version.
 
-We use this only to understand how many people use the app and which features they use, and to fix crashes. It is not used to identify you, and we do not sell it. Google processes it under the [Firebase privacy information](https://firebase.google.com/support/privacy) and [Google's Privacy Policy](https://policies.google.com/privacy). Analytics data is kept for up to 14 months; crash reports for up to 90 days.
+We use this only to understand how many people use the app and which features they use, and to fix crashes. It is not used to identify you, and we do not sell it. Google processes it under the [Firebase privacy information](https://firebase.google.com/support/privacy) and [Google's Privacy Policy](https://policies.google.com/privacy). Google Analytics keeps this data for 2 months; crash reports are kept for 90 days.
 
 ## Data security
 
