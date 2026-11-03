@@ -57,6 +57,10 @@ All data the app sends, to Digi-API and to Google, is transferred over an encryp
 
 The app is not directed at children under 13, and we do not knowingly collect personal data from them.
 
+## Unofficial fan app
+
+DigiDexPlus is an unofficial fan app. It is not affiliated with, endorsed, sponsored or approved by Bandai, Bandai Namco, Toei Animation or Akiyoshi Hongo. Digimon and all related names, characters and images are trademarks and copyrights of their respective owners.
+
 ## Changes to this policy
 
 If this policy changes, the updated version will be published on this page with a new "Last updated" date.
